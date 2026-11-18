@@ -1,0 +1,6 @@
+{
+  "name": "ExpenseTrack ADS — Personal Expense Tracker",
+  "description": "An interactive Personal Expense Tracker and Data Structures & Algorithms visualizer built for ADS PBL demonstrations, featuring struct/array modeling, Linear Search, Bubble Sort, Merge Sort, Array Traversal, and C source export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
